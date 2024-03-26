@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Carolina Carreira
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:  
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Carolina
+last_name: Carreira
 
 # Status emoji
 status:
@@ -17,21 +17,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Societal Computing
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Carnegie Mellon University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include usable security, privacy and formal methods.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Usable Security
+  - Software Engeneering
+  - HCI
 
 # Education to show in About widget
 education:
